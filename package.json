@@ -1,0 +1,10 @@
+{
+  "name": "sp-web",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "~3.2.6",
+    "jade": "~0.31.2",
+    "spdy": "x.x.x"
+  }
+}
